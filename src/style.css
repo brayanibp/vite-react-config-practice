@@ -5,6 +5,7 @@ main {
   justify-content: center;
   max-width: 800px;
   gap: 1em;
+  margin: auto;
 }
 
 section {
